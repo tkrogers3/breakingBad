@@ -13,10 +13,11 @@ const CharacterItem = ({ item }) => {
               <li>
                 <strong>Actor Name:</strong> {item.portrayed}
               </li>
+              
+             { item.appearance ? 
               <li>
-              {item.appearance} ? 
                 <strong>Season Appearances:</strong> {item.appearance.join(',')}
-              </li> :{null};
+              </li> :null};
               <li>
                 <strong>Nickname:</strong> {item.nickname}
               </li>
