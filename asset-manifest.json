@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/breakingBad/static/css/main.cf7465eb.chunk.css",
-    "main.js": "/breakingBad/static/js/main.615dd823.chunk.js",
-    "main.js.map": "/breakingBad/static/js/main.615dd823.chunk.js.map",
+    "main.js": "/breakingBad/static/js/main.a0642deb.chunk.js",
+    "main.js.map": "/breakingBad/static/js/main.a0642deb.chunk.js.map",
     "runtime-main.js": "/breakingBad/static/js/runtime-main.6bcb3fe9.js",
     "runtime-main.js.map": "/breakingBad/static/js/runtime-main.6bcb3fe9.js.map",
     "static/js/2.08933941.chunk.js": "/breakingBad/static/js/2.08933941.chunk.js",
     "static/js/2.08933941.chunk.js.map": "/breakingBad/static/js/2.08933941.chunk.js.map",
     "index.html": "/breakingBad/index.html",
-    "precache-manifest.c716dbd7cd715f5582c7976292714b76.js": "/breakingBad/precache-manifest.c716dbd7cd715f5582c7976292714b76.js",
+    "precache-manifest.85d969cb7f0a756b0f3df7207debdecc.js": "/breakingBad/precache-manifest.85d969cb7f0a756b0f3df7207debdecc.js",
     "service-worker.js": "/breakingBad/service-worker.js",
     "static/css/main.cf7465eb.chunk.css.map": "/breakingBad/static/css/main.cf7465eb.chunk.css.map",
     "static/js/2.08933941.chunk.js.LICENSE.txt": "/breakingBad/static/js/2.08933941.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6bcb3fe9.js",
     "static/js/2.08933941.chunk.js",
     "static/css/main.cf7465eb.chunk.css",
-    "static/js/main.615dd823.chunk.js"
+    "static/js/main.a0642deb.chunk.js"
   ]
 }
